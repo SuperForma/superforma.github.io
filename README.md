@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="description" content="SuperForma – Forma Tasarla, Halı Saha Forması Üretimi">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SuperForma | Forma Tasarla</title>
+SuperForma | Forma Tasarla
 </head>
 <body>
   <h1>SuperForma – Kendi Formanı Tasarla</h1>
